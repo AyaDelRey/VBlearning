@@ -1,0 +1,14 @@
+C:\Users\Belah\source\repos\VBNETapp\VBNETapp\bin\Debug\net8.0\VBNETapp.exe
+C:\Users\Belah\source\repos\VBNETapp\VBNETapp\bin\Debug\net8.0\VBNETapp.deps.json
+C:\Users\Belah\source\repos\VBNETapp\VBNETapp\bin\Debug\net8.0\VBNETapp.runtimeconfig.json
+C:\Users\Belah\source\repos\VBNETapp\VBNETapp\bin\Debug\net8.0\VBNETapp.dll
+C:\Users\Belah\source\repos\VBNETapp\VBNETapp\bin\Debug\net8.0\VBNETapp.pdb
+C:\Users\Belah\source\repos\VBNETapp\VBNETapp\obj\Debug\net8.0\VBNETapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Belah\source\repos\VBNETapp\VBNETapp\obj\Debug\net8.0\VBNETapp.AssemblyInfoInputs.cache
+C:\Users\Belah\source\repos\VBNETapp\VBNETapp\obj\Debug\net8.0\VBNETapp.AssemblyInfo.vb
+C:\Users\Belah\source\repos\VBNETapp\VBNETapp\obj\Debug\net8.0\VBNETapp.vbproj.CoreCompileInputs.cache
+C:\Users\Belah\source\repos\VBNETapp\VBNETapp\obj\Debug\net8.0\VBNETapp.dll
+C:\Users\Belah\source\repos\VBNETapp\VBNETapp\obj\Debug\net8.0\refint\VBNETapp.dll
+C:\Users\Belah\source\repos\VBNETapp\VBNETapp\obj\Debug\net8.0\VBNETapp.pdb
+C:\Users\Belah\source\repos\VBNETapp\VBNETapp\obj\Debug\net8.0\VBNETapp.genruntimeconfig.cache
+C:\Users\Belah\source\repos\VBNETapp\VBNETapp\obj\Debug\net8.0\ref\VBNETapp.dll
